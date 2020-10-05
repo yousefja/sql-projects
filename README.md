@@ -1,7 +1,7 @@
 # sql-projects
 A collection of projects demonstrating essential techniques and understanding in SQL including subqueries, summary statistics, ordering and grouping, and joins
 
-1. Analyizing CIA Factbook Data 
+**1. Analyizing CIA Factbook Data** 
         
         skills and concepts used:
                 a. Summary Statistics
@@ -9,7 +9,7 @@ A collection of projects demonstrating essential techniques and understanding in
                 c. Subqueries
                 d. Functions
 
-2. Intermediate SQL Analysis
+**2. Intermediate SQL Analysis**
         
         skills and concepts used:
                 a. Grouping, Ordering
